@@ -342,8 +342,8 @@ plugins:
 # Where you proof that you own this site (used by jekyll-seo-tag)
 # google_site_verification: <verification-id>
 # -- or --
-webmaster_verifications:
-  google:              cdtjdcjf@gmail.com
+# webmaster_verifications:
+#   google:              cdtjdcjf@gmail.com
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
@@ -358,12 +358,12 @@ webmaster_verifications:
 #   publisher:           <id>
 #   admins:              <id>
 
-Used on index and about sites
-social:
-  name:                Min Seong-cheol
-  links:
+# Used on index and about sites
+# social:
+#   name:                Min Seong-cheol
+#   links:
 #     - https://twitter.com/<username>
-    - https://github.com/AminSC
+#     - https://github.com/AminSC
 
 
 # Plugin Configs
