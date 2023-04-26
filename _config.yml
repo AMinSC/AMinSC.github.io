@@ -50,8 +50,8 @@ author:
 menu:
   - title:             Python
     url:               /python/
-  - title:             WebPramework
-    url:               /webpramework/
+  - title:             WebFramework
+    url:               /webframework/
   - title:             ComputerScience
     url:               /computerscience/
 
