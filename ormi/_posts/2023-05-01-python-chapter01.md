@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Ormi
-permalink: /ormi/
+title: Ormi_python_01
+permalink: /ormi01/
 related_posts:
-  -
+  - ormi/_posts/2023-05-01-learn-python-in-ormi.md
   - 
 ---
 
-## 오늘 배운 것 정리
+## Python_01
 1. 단축키
     * (필수) Ctrl(Command) + Enter : 해당 셀 실행
     * (필수) Alt(Option) + Enter : 해당 셀 실행 + 코드 불록 하단 추가
