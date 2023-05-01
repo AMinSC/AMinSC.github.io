@@ -12,5 +12,5 @@ related_posts:
     - 참조 : [Ormi_Python_Basic_01] [1]
 <!-- 이 부분도 [google] [1]을 참조하시고 저 부분은 [python02] [2]을 참조하세요.   -->
 
-[1]: https://aminsc.github.io//ormi01/
+[1]: https://aminsc.github.io/ormi01/
 <!-- [2]: https://aminsc.github.io/python03/ -->

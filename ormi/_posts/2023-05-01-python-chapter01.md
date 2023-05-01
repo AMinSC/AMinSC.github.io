@@ -7,7 +7,12 @@ related_posts:
   - 
 ---
 
-## Python_01
+## Python_Basic_01
+
+- [목차로 돌아가기] [1]
+
+[1]: https://aminsc.github.io/ormi/
+
 1. 단축키
     * (필수) Ctrl(Command) + Enter : 해당 셀 실행
     * (필수) Alt(Option) + Enter : 해당 셀 실행 + 코드 불록 하단 추가
