@@ -9,9 +9,11 @@ related_posts:
 
 ## Python_Basic_01
 
-- [목차로 돌아가기] [1]
+
+- 목차로 돌아가기[Ormi] [1]
 
 [1]: https://aminsc.github.io/ormi/
+
 
 1. 단축키
     * (필수) Ctrl(Command) + Enter : 해당 셀 실행
