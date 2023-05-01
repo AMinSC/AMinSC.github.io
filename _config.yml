@@ -54,6 +54,8 @@ menu:
     url:               /webframework/
   - title:             ComputerScience
     url:               /computerscience/
+  - title:             Ormi
+    url:               /ormi/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
