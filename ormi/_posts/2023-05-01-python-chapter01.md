@@ -4,7 +4,7 @@ title: Ormi_python_01
 permalink: /ormi01/
 related_posts:
   - ormi/_posts/2023-05-01-learn-python-in-ormi.md
-  - 
+  - ormi/_posts/2023-05-01-python-chapter02.md
 ---
 
 ## Python_Basic_01
