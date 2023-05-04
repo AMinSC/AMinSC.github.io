@@ -18,7 +18,11 @@ related_posts:
 3. Python Basic :
     - 파이썬 기초 : 함수의 기본 개념, 지역 변수와 전역 변수, 재귀함수, 리스트
     - 참조 : [Ormi_Python_Basic_03] [3]
+4. Python Basice :
+    - 파이썬 기초 : 다차원 리스트와 Built-in function, range, list comprehension, 튜플(tuple), 딕셔너리(dictionary), 셋(set)
+    - 참조 : [Ormi_Python_Basic_04] [4]
 
 [1]: https://aminsc.github.io/ormi01/
 [2]: https://aminsc.github.io/ormi02/
 [3]: https://aminsc.github.io/ormi03/
+[4]: https://aminsc.github.io/ormi04/

@@ -4,7 +4,7 @@ title: Ormi_python_03
 permalink: /ormi03/
 related_posts:
   - ormi/_posts/2023-05-02-python-chapter02.md
-  - 
+  - ormi/_posts/2023-05-04-python-chapter04.md
 ---
 
 ## Python_Basic_03
