@@ -20,8 +20,8 @@ related_posts:
     * sort는 원본을 만지는 '리스트 메서드', 정렬입니다.
     * sort의 다양한 예
         ```python
-        l = [[1, 10, 'leehojun'], 
-            [20, 30, 'hojun'], 
+        l = [[1, 10, 'honggildong'], 
+            [20, 30, 'gildong'], 
             [10, 20, 'weniv!'], 
             [1, 2, 'hello world'], 
             [55, 11, 'sun']]

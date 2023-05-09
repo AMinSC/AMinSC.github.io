@@ -88,14 +88,14 @@ related_posts:
     def print_args(*args): # 꼭 args가 될 필요는 없습니다.
         print(args)
 
-    print_args(100, True, 'leehojun')
+    print_args(100, True, 'honggildong')
 
     ####
 
     def print_kwargs(**kwargs): # 꼭 kargs가 될 필요는 없습니다.
     print(kwargs)
 
-    print_kwargs(name='leehojun', age='10')
+    print_kwargs(name='honggildong', age='10')
     ```
 
 * lambda
