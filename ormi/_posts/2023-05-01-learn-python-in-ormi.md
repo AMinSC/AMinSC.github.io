@@ -24,9 +24,13 @@ related_posts:
 5. Python Basic :
     - 파이썬 기초 : 조건문, 반복문
     - 참조 : [Ormi_Python_Basic_05] [5]
+6. Python Basic : 
+    - 파이썬 기초 : 반복문, Built-in Function, *args, **kwargs, lambda(map, filter)
+    - 참조 : [Ormi_Python_Basic_06] [6]
 
 [1]: https://aminsc.github.io/ormi01/
 [2]: https://aminsc.github.io/ormi02/
 [3]: https://aminsc.github.io/ormi03/
 [4]: https://aminsc.github.io/ormi04/
 [5]: https://aminsc.github.io/ormi05/
+[6]: https://aminsc.github.io/ormi06/
