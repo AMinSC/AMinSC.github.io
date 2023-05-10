@@ -27,6 +27,9 @@ related_posts:
 6. Python Basic : 
     - 파이썬 기초 : 반복문, Built-in Function, *args, **kwargs, lambda(map, filter)
     - 참조 : [Ormi_Python_Basic_06] [6]
+7. Python Basic :
+    - 파이썬 기초 : 클래스(클래스 변수), 인스턴스 변수, 매직 메소드,  상속
+    - 참조 : [Ormi_Python_Basic_07] [7]
 
 [1]: https://aminsc.github.io/ormi01/
 [2]: https://aminsc.github.io/ormi02/
@@ -34,3 +37,4 @@ related_posts:
 [4]: https://aminsc.github.io/ormi04/
 [5]: https://aminsc.github.io/ormi05/
 [6]: https://aminsc.github.io/ormi06/
+[7]: https://aminsc.github.io/ormi07/
