@@ -30,6 +30,9 @@ related_posts:
 7. Python Basic :
     - 파이썬 기초 : 클래스(클래스 변수), 인스턴스 변수, 매직 메소드,  상속
     - 참조 : [Ormi_Python_Basic_07] [7]
+8. Python Basic :
+    - 파이썬 기초 : 제너레이터, 데코레이터, 모듈, 파일 입출력
+    - 참조 : [Ormi_Python_Basic_08] [8]
 
 [1]: https://aminsc.github.io/ormi01/
 [2]: https://aminsc.github.io/ormi02/
@@ -38,3 +41,4 @@ related_posts:
 [5]: https://aminsc.github.io/ormi05/
 [6]: https://aminsc.github.io/ormi06/
 [7]: https://aminsc.github.io/ormi07/
+[8]: https://aminsc.github.io/ormi08/
