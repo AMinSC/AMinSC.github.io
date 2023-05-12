@@ -3,8 +3,8 @@ layout: post
 title: Ormi_python_08
 permalink: /ormi08/
 related_posts:
-  - ormi/_posts/2023-05-09-python-chapter07.md
-  - 
+  - ormi/_posts/2023-05-10-python-chapter07.md
+  - ormi/_posts/2023-05-12-python-chapter09.md
 ---
 
 ## Python_Basic_08

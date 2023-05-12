@@ -33,6 +33,9 @@ related_posts:
 8. Python Basic :
     - 파이썬 기초 : 제너레이터, 데코레이터, 모듈, 파일 입출력
     - 참조 : [Ormi_Python_Basic_08] [8]
+9. Python Basic :
+    - 파이썬 기초 : 에러처리, 파일입출력
+    - 참조 : [Ormi_Python_Basic_09] [9]
 
 [1]: https://aminsc.github.io/ormi01/
 [2]: https://aminsc.github.io/ormi02/
@@ -42,3 +45,4 @@ related_posts:
 [6]: https://aminsc.github.io/ormi06/
 [7]: https://aminsc.github.io/ormi07/
 [8]: https://aminsc.github.io/ormi08/
+[9]: https://aminsc.github.io/ormi09/
