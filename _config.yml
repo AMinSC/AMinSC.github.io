@@ -48,14 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Python
-    url:               /python/
+  - title:             ProgrammingLanguage
+    url:               /pl/
   - title:             WebFramework
-    url:               /webframework/
+    url:               /wf/
   - title:             ComputerScience
-    url:               /computerscience/
-  - title:             Ormi
-    url:               /ormi/
+    url:               /cs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

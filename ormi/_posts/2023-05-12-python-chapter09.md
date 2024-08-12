@@ -31,12 +31,12 @@ related_posts:
     * 열기와 닫기를 동시에
     ```python
     with open('test.txt', 'w') as f:
-	    f.write('Life is too short, you need python')
+	    f.write('Life is too short, you need programminglanguage')
     ```
     
     * 파일에 추가
     ```python
-    f = open('python.txt', 'a') # 다시 write 모드로 하면 처음부터 덮어 씁니다.
+    f = open('programminglanguage.txt', 'a') # 다시 write 모드로 하면 처음부터 덮어 씁니다.
     s = ''
     for i in range(5, 11):
         s += f'{i}명 참여 중입니다. \n'

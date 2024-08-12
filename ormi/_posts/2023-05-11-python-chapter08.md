@@ -89,7 +89,7 @@ related_posts:
     * 파일을 읽고 쓰는 것
         * 파일 쓰기
         ```python
-        f = open('python.txt', 'w') 
+        f = open('programminglanguage.txt', 'w') 
         # 파일모드 : r(read), w(write, 처음부터 덮어씁니다.), a(append)
         s = 'hello\nworld'
         f.write(s)
@@ -97,7 +97,7 @@ related_posts:
         ```
         * 파일 읽기
         ```python
-        f = open('python.txt', 'r')
+        f = open('programminglanguage.txt', 'r')
         while True:
             line = f.readline()
             if not line:
@@ -106,7 +106,7 @@ related_posts:
         f.close()
         ```
         ```python
-        f = open('python.txt', 'r')
+        f = open('programminglanguage.txt', 'r')
         data = f.read()
         print(data)
         f.close()

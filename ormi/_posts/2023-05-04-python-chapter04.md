@@ -97,7 +97,7 @@ related_posts:
     # range는 ','(콤마)로 연결되어 있습니다.
 
     print(list(range(100))) 
-    # python 2.x에서 python 3.x에 range를 사용하고 싶다면 xrange(10)
+    # programminglanguage 2.x에서 programminglanguage 3.x에 range를 사용하고 싶다면 xrange(10)
     print(list(range(5, 10)))
 
     print(list(range(0, 101, 2))) #짝수
