@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Ormi
-permalink: /ormi/
+title: Python
+permalink: /pl3/
 related_posts:
   - 
-  - ormi/_posts/2023-05-01-python-chapter01.md
+  - pl/_posts/2023-05-01-python-chapter01.md
 ---
 
 ## Ormi Python 학습

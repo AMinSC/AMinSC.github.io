@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Ormi_python_03
-permalink: /ormi03/
+title: 함수의 기본 개념, 지역 변수와 전역 변수, 재귀함수, 리스트
+permalink: /python06/
+categories: [python]
 related_posts:
-  - ormi/_posts/2023-05-02-python-chapter02.md
-  - ormi/_posts/2023-05-04-python-chapter04.md
+  - pl/_posts/2023-05-02-python-chapter02.md
+  - pl/_posts/2023-05-04-python-chapter04.md
 ---
 
 ## Python_Basic_03
 
-- 목차로 돌아가기[Ormi] [1]
+- 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/ormi/
+[1]: https://aminsc.github.io/python/
 
 
 1. 함수

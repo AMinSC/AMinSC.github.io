@@ -1,17 +1,20 @@
 ---
 layout: post
-title: Ormi_python_04
-permalink: /ormi04/
+title: Python_Basic_4
+permalink: /pl07/
+categories: [python]
+description: >
+   다차원 리스트와 Built-in function, range, list comprehension, 튜플(tuple), 딕셔너리(dictionary), 셋(set)
 related_posts:
-  - ormi/_posts/2023-05-03-python-chapter03.md
-  - ormi/_posts/2023-05-05-python-chapter05.md
+  - pl/_posts/2023-05-03-python-chapter03.md
+  - pl/_posts/2023-05-05-python-chapter05.md
 ---
 
 ## Python_Basic_04
 
-- 목차로 돌아가기[Ormi] [1]
+- 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/ormi/
+[1]: https://aminsc.github.io/python/
 
 
 

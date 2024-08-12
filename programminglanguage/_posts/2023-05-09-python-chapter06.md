@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Ormi_python_06
-permalink: /ormi06/
+title: Python_Basic_06
+permalink: /ormi09/
+description: >
+    반복문, Built-in Function, *args, **kwargs, lambda(map, filter)
 related_posts:
-  - ormi/_posts/2023-05-08-python-chapter05.md
-  - ormi/_posts/2023-05-10-python-chapter07.md
+  - pl/_posts/2023-05-08-python-chapter05.md
+  - pl/_posts/2023-05-10-python-chapter07.md
 ---
 
 ## Python_Basic_06
 
-- 목차로 돌아가기[Ormi] [1]
+- 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/ormi/
+[1]: https://aminsc.github.io/python/
 
 
 * 반복문

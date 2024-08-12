@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Ormi_python_01
-permalink: /ormi01/
+title: 입/출력, 숫자 자료형
+permalink: /pl04/
+categories: [python]
 related_posts:
-  - ormi/_posts/2023-05-01-learn-python-in-ormi.md
-  - ormi/_posts/2023-05-02-python-chapter02.md
+  - pl/_posts/2023-05-01-learn-python-in-ormi.md
+  - pl/_posts/2023-05-02-python-chapter02.md
 ---
 
 ## Python_Basic_01
 
 
-- 목차로 돌아가기[Ormi] [1]
+- 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/ormi/
+[1]: https://aminsc.github.io/python/
 
 
 1. 단축키

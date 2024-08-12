@@ -1,17 +1,20 @@
 ---
 layout: post
-title: Ormi_python_05
-permalink: /ormi05/
+title: Python Basic 05
+permalink: /pl08/
+categories: [python]
+description: >
+  조건문, 반복문
 related_posts:
-  - ormi/_posts/2023-05-04-python-chapter04.md
-  - ormi/_posts/2023-05-09-python-chapter06.md
+  - pl/_posts/2023-05-04-python-chapter04.md
+  - pl/_posts/2023-05-09-python-chapter06.md
 ---
 
 ## Python_Basic_05
 
-- 목차로 돌아가기[Ormi] [1]
+- 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/ormi/
+[1]: https://aminsc.github.io/python/
 
 
 * 조건문
