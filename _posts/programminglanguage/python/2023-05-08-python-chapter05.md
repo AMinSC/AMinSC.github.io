@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /pl/python08/
+permalink: /python/basic05/
 categories: [python]
 description: >
   조건문, 반복문
@@ -9,7 +9,8 @@ related_posts:
   - _posts/programminglanguage/python/2023-05-09-python-chapter06.md
 ---
 
-## Python_Basic_05
+# Python_Basic_05
+## 조건문, 반복문
 
 - 목차로 돌아가기[Python] [1]
 

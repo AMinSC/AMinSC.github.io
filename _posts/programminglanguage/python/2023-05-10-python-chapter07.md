@@ -1,11 +1,13 @@
 ---
 layout: post
-permalink: /pl/python10/
+permalink: /python/basic07/
+categories: [python]
 related_posts:
   - _posts/programminglanguage/python/2023-05-09-python-chapter06.md
   - _posts/programminglanguage/python/2023-05-11-python-chapter08.md
 ---
 
+# 클래스(클래스 변수), 인스턴스 변수, 매직 메소드,  상속
 ## Python_Basic_07
 
 - 목차로 돌아가기[Python] [1]

@@ -1,13 +1,15 @@
 ---
 layout: post
-permalink: /pl/python05/
+permalink: /python/basic02/
 categories: [python]
 related_posts:
   - _posts/programminglanguage/python/2023-05-01-python-chapter01.md
   - _posts/programminglanguage/python/2023-05-01-python-chapter03.md
 ---
 
-## Python_Basic_02
+# Python_Basic_02
+## 파이썬 기초 : 문자 자료형, 문자열의 활용, 형변환
+### 연산 : 산술연산과 비교연산, 논리연산, 비트연산, 할당연산, 식별연산, in구문
 
 - 목차로 돌아가기[Python] [1]
 

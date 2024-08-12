@@ -1,11 +1,13 @@
 ---
 layout: post
-permalink: /pl/python11/
+permalink: /python/basic08/
+categories: [python]
 related_posts:
   - _posts/programminglanguage/python/2023-05-10-python-chapter07.md
   - _posts/programminglanguage/python/2023-05-12-python-chapter09.md
 ---
 
+# 제너레이터, 데코레이터, 모듈, 파일 입출력
 ## Python_Basic_08
 
 - 목차로 돌아가기[Python] [1]

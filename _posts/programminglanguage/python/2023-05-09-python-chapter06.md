@@ -1,6 +1,7 @@
 ---
 layout: post
-permalink: /pl/python09/
+permalink: /python/basic06/
+categories: [python]
 description: >
     반복문, Built-in Function, *args, **kwargs, lambda(map, filter)
 related_posts:
@@ -8,7 +9,8 @@ related_posts:
   - _posts/programminglanguage/python/2023-05-10-python-chapter07.md
 ---
 
-## Python_Basic_06
+# Python_Basic_06
+## 반복문, Built-in Function, *args, **kwargs, lambda(map, filter)
 
 - 목차로 돌아가기[Python] [1]
 

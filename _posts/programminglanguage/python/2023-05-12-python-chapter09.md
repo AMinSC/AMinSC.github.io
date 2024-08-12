@@ -1,11 +1,13 @@
 ---
 layout: post
-permalink: /pl/python12/
+permalink: /python/basic09/
+categories: [python]
 related_posts:
   - _posts/programminglanguage/python/2023-05-09-python-chapter08.md
   - 
 ---
 
+# 에러처리, 파일입출력
 ## Python_Basic_09
 
 - 목차로 돌아가기[Python] [1]

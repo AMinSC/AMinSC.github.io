@@ -1,13 +1,14 @@
 ---
 layout: post
-permalink: /pl/python06/
+permalink: /python/basic03/
 categories: [python]
 related_posts:
   - _posts/programminglanguage/python/2023-05-02-python-chapter02.md
   - _posts/programminglanguage/python/2023-05-04-python-chapter04.md
 ---
 
-## Python_Basic_03
+# Python_Basic_03
+## 함수의 기본 개념, 지역 변수와 전역 변수, 재귀함수, 리스트
 
 - 목차로 돌아가기[Python] [1]
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-permalink: /pl/python04/
+permalink: /python/basic01/
 categories: [python]
 related_posts:
   - _posts/programminglanguage/python/2023-05-01-learn-python-in-ormi.md
   - _posts/programminglanguage/python/2023-05-02-python-chapter02.md
 ---
 
-## Python_Basic_01
-
+# Python_Basic_01
+## 입/출력, 숫자 자료형
 
 - 목차로 돌아가기[Python] [1]
 

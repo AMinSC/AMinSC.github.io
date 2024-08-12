@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /pl/python07/
+permalink: /python/basic04/
 categories: [python]
 description: >
    다차원 리스트와 Built-in function, range, list comprehension, 튜플(tuple), 딕셔너리(dictionary), 셋(set)
@@ -9,7 +9,8 @@ related_posts:
   - _posts/programminglanguage/python/2023-05-05-python-chapter05.md
 ---
 
-## Python_Basic_04
+# Python_Basic_04
+## 다차원 리스트와 Built-in function, range, list comprehension, 튜플(tuple), 딕셔너리(dictionary), 셋(set)
 
 - 목차로 돌아가기[Python] [1]
 
