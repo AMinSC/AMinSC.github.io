@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Python_Basic_4
-permalink: /pl07/
+permalink: /pl/python07/
 categories: [python]
 description: >
    다차원 리스트와 Built-in function, range, list comprehension, 튜플(tuple), 딕셔너리(dictionary), 셋(set)
 related_posts:
-  - pl/_posts/2023-05-03-python-chapter03.md
-  - pl/_posts/2023-05-05-python-chapter05.md
+  - _posts/programminglanguage/python/2023-05-03-python-chapter03.md
+  - _posts/programminglanguage/python/2023-05-05-python-chapter05.md
 ---
 
 ## Python_Basic_04
 
 - 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/python/
+[1]: https://aminsc.github.io/pl/python/
 
 
 

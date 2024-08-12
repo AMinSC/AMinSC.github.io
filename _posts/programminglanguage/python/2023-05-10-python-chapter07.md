@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Ormi_python_07
-permalink: /ormi07/
+permalink: /pl/python10/
 related_posts:
-  - ormi/_posts/2023-05-09-python-chapter06.md
-  - ormi/_posts/2023-05-11-python-chapter08.md
+  - _posts/programminglanguage/python/2023-05-09-python-chapter06.md
+  - _posts/programminglanguage/python/2023-05-11-python-chapter08.md
 ---
 
 ## Python_Basic_07
 
-- 목차로 돌아가기[Ormi] [1]
+- 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/ormi/
+[1]: https://aminsc.github.io/pl/python/
 
 
 * 클래스

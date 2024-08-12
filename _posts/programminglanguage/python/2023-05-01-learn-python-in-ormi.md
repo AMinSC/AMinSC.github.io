@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Python
 permalink: /pl3/
 related_posts:
   - 

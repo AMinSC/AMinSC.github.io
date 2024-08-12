@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 입/출력, 숫자 자료형
-permalink: /pl04/
+permalink: /pl/python04/
 categories: [python]
 related_posts:
-  - pl/_posts/2023-05-01-learn-python-in-ormi.md
-  - pl/_posts/2023-05-02-python-chapter02.md
+  - _posts/programminglanguage/python/2023-05-01-learn-python-in-ormi.md
+  - _posts/programminglanguage/python/2023-05-02-python-chapter02.md
 ---
 
 ## Python_Basic_01
@@ -13,7 +12,7 @@ related_posts:
 
 - 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/python/
+[1]: https://aminsc.github.io/pl/python/
 
 
 1. 단축키

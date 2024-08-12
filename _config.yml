@@ -50,10 +50,23 @@ author:
 menu:
   - title:             ProgrammingLanguage
     url:               /pl/
+    submenu:
+      - title: Python
+        url:  /python/
+      - title: Java
+        url:  /java/
   - title:             WebFramework
     url:               /wf/
+    submenu:
+      - title: Django
+        url: /django/
+      - title: Spring
+        url: /spring/
   - title:             ComputerScience
     url:               /cs/
+    submenu:
+      - title: Network
+        url:  /network/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

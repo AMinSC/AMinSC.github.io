@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Python Basic 05
-permalink: /pl08/
+permalink: /pl/python08/
 categories: [python]
 description: >
   조건문, 반복문
 related_posts:
-  - pl/_posts/2023-05-04-python-chapter04.md
-  - pl/_posts/2023-05-09-python-chapter06.md
+  - _posts/programminglanguage/python/2023-05-04-python-chapter04.md
+  - _posts/programminglanguage/python/2023-05-09-python-chapter06.md
 ---
 
 ## Python_Basic_05
 
 - 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/python/
+[1]: https://aminsc.github.io/pl/python/
 
 
 * 조건문

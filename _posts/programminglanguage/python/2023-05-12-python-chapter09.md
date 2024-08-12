@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Ormi_python_09
-permalink: /ormi09/
+permalink: /pl/python12/
 related_posts:
-  - ormi/_posts/2023-05-09-python-chapter08.md
+  - _posts/programminglanguage/python/2023-05-09-python-chapter08.md
   - 
 ---
 
 ## Python_Basic_09
 
-- 목차로 돌아가기[Ormi] [1]
+- 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/ormi/
+[1]: https://aminsc.github.io/pl/python/
 
 
 * 애러처리

@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Ormi_python_08
-permalink: /ormi08/
+permalink: /pl/python11/
 related_posts:
-  - ormi/_posts/2023-05-10-python-chapter07.md
-  - ormi/_posts/2023-05-12-python-chapter09.md
+  - _posts/programminglanguage/python/2023-05-10-python-chapter07.md
+  - _posts/programminglanguage/python/2023-05-12-python-chapter09.md
 ---
 
 ## Python_Basic_08
 
-- 목차로 돌아가기[Ormi] [1]
+- 목차로 돌아가기[Python] [1]
 
-[1]: https://aminsc.github.io/ormi/
+[1]: https://aminsc.github.io/pl/python/
 
 
 * 제너레이터
