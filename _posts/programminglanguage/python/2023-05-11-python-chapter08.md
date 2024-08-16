@@ -10,9 +10,9 @@ related_posts:
 # 제너레이터, 데코레이터, 모듈, 파일 입출력
 ## Python_Basic_08
 
-- 목차로 돌아가기[Python] [1]
+- [Python 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/pl/python/
+[1]: https://aminsc.github.io/python/
 
 
 * 제너레이터

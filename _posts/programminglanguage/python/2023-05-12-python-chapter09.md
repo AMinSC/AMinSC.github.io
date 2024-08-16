@@ -10,9 +10,9 @@ related_posts:
 # 에러처리, 파일입출력
 ## Python_Basic_09
 
-- 목차로 돌아가기[Python] [1]
+- [Python 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/pl/python/
+[1]: https://aminsc.github.io/python/
 
 
 * 애러처리

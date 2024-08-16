@@ -10,9 +10,9 @@ related_posts:
 # 클래스(클래스 변수), 인스턴스 변수, 매직 메소드,  상속
 ## Python_Basic_07
 
-- 목차로 돌아가기[Python] [1]
+- [Python 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/pl/python/
+[1]: https://aminsc.github.io/python/
 
 
 * 클래스

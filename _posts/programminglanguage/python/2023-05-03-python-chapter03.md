@@ -10,9 +10,9 @@ related_posts:
 # Python_Basic_03
 ## 함수의 기본 개념, 지역 변수와 전역 변수, 재귀함수, 리스트
 
-- 목차로 돌아가기[Python] [1]
+- [Python 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/pl/python/
+[1]: https://aminsc.github.io/python/
 
 
 1. 함수

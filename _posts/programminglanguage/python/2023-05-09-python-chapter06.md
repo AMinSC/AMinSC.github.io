@@ -12,9 +12,9 @@ related_posts:
 # Python_Basic_06
 ## 반복문, Built-in Function, *args, **kwargs, lambda(map, filter)
 
-- 목차로 돌아가기[Python] [1]
+- [Python 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/pl/python/
+[1]: https://aminsc.github.io/python/
 
 
 * 반복문

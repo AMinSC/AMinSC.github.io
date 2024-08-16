@@ -10,9 +10,9 @@ related_posts:
 # Controller Annotation @Controller vs @RestController
 
 
-- 목차로 돌아가기[spring] [1]
+- [Spring 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/pl/spring/
+[1]: https://aminsc.github.io/spring/
 
 
 #### @Controller
@@ -22,8 +22,8 @@ related_posts:
 - @Controller와 상반되는 MSA(MicroService Architecture)로 반환값은 데이터와 Status Code가 주입니다. 따라서 API로 데이터(객체)를 제공하여 CSR(Client Side Rendering)로 생각되지만 이것 또한 같이 알아본 뒤 보강 하거나 따로 다뤄보겠습니다.
 
 
-예시로 MyBatis를 사용할 경우, 데이터를 제공하는 API와 페이지를 제공하는 API가 각각 사용했습니다.
 
+ 예시로 MyBatis를 사용할 경우, 데이터를 제공하는 API와 페이지를 제공하는 API가 각각 사용했습니다.
 
 ~~~java
 //file: `DataController.java`
@@ -48,7 +48,7 @@ public class ViewController {
     @GetMapping("/board")
 	public String viewBoard(Model model) {
 		
-		return "board";
+	    return "board";
 	}
 }
 ~~~

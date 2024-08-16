@@ -12,9 +12,9 @@ related_posts:
 # Python_Basic_05
 ## 조건문, 반복문
 
-- 목차로 돌아가기[Python] [1]
+- [Python 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/pl/python/
+[1]: https://aminsc.github.io/python/
 
 
 * 조건문

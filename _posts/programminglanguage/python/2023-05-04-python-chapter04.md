@@ -12,9 +12,9 @@ related_posts:
 # Python_Basic_04
 ## 다차원 리스트와 Built-in function, range, list comprehension, 튜플(tuple), 딕셔너리(dictionary), 셋(set)
 
-- 목차로 돌아가기[Python] [1]
+- [Python 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/pl/python/
+[1]: https://aminsc.github.io/python/
 
 
 

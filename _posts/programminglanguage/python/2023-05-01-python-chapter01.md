@@ -10,9 +10,9 @@ related_posts:
 # Python_Basic_01
 ## 입/출력, 숫자 자료형
 
-- 목차로 돌아가기[Python] [1]
+- [Python 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/pl/python/
+[1]: https://aminsc.github.io/python/
 
 
 1. 단축키
