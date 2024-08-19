@@ -54,7 +54,7 @@ Hibernate는 두 엔티티 간의 매핑을 처리하기 위해 중간 테이블
 
   - `inverseJoinColumns`: 연관된 엔티티(Category)의 외래 키를 나타내는 @JoinColumn을 정의합니다. 여기서는 category_id라는 이름의 컬럼이 생성됩니다.
 ~~~java
-//file: 'Blog.class'
+//file: 'Blog.java'
 
 @Entity
 public class Blog {
@@ -80,7 +80,7 @@ public class Blog {
 - 속성 설명
   - `mappedBy`:  @ManyToMany 관계에서 양방향 매핑을 설정할 때, 한쪽 엔티티에 mappedBy 속성을 사용하여 관계의 주인이 아닌 것을 표시합니다. 예를 들어, Category 엔티티의 blogs 필드에 mappedBy = "categories"를 설정하여 Blog 엔티티의 categories 필드가 관계의 주인임을 나타냅니다.
 ~~~java
-//file: 'Category.class'
+//file: 'Category.java'
 
 @Entity
 public class Category {
