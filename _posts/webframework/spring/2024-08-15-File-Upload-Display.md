@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /spring/anno0002/
+permalink: /spring/boot0002/
 categories: [spring]
 related_posts:
   -
