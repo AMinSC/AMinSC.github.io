@@ -12,7 +12,7 @@ related_posts:
 
 - [Python 목차로 돌아가기] [1]
 
-[1]: https://aminsc.github.io/python/
+  [1]: https://aminsc.github.io/python/
 
 
 1. 단축키
