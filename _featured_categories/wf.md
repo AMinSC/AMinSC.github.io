@@ -4,9 +4,9 @@ title: WebFramework
 slug: wf
 
 description: >
-  [Django의 관하여..](https://aminsc.github.io/django/)
+  [Django의 관하여..]
 , 
-  [Spring의 관하여..](https://aminsc.github.io/spring/)
+  [Spring의 관하여..]
 
 sitemap: false
 ---

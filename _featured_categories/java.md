@@ -4,7 +4,7 @@ title: Programming Language with Java
 slug: java
 
 description: >
-  Java의 관하여..
+  Java
 
 sitemap: false
 ---
