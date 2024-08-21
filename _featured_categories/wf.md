@@ -4,9 +4,7 @@ title: WebFramework
 slug: wf
 
 description: >
-  [Django의 관하여..]
-, 
-  [Spring의 관하여..]
+  Django, Spring
 
 sitemap: false
 ---
